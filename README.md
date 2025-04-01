@@ -3,11 +3,11 @@
 
 The **Superstore Sales dataset** contains **1,000 records** across **14 fields**, capturing detailed transaction data from a retail superstore. This dataset includes order details, customer information, product categories, sales amounts, discounts, and regional distribution.  
 
-### 📌 Dataset Overview  
+###  Dataset Overview  
 - **Total Rows:** 1,000  
 - **Total Columns:** 14  
 
-### 📊 Column Descriptions  
+###  Column Descriptions  
 
 | Column Name         | Description |
 |---------------------|-------------|
@@ -26,28 +26,28 @@ The **Superstore Sales dataset** contains **1,000 records** across **14 fields**
 | **Region**        | The geographical region of the sale (e.g., East, West) |
 | **State**         | The state where the order was placed |
 
-### 📂 File Information  
+###  File Information  
 - **File Name:** `Superstore_Sales_Dataset.xlsx`  
 - **Format:** Excel (.xlsx)  
 - **Size:** Approximately 1000 rows  
 
 ---
 
-## 📊 Data Visualization  
+##  Data Visualization  
 
-### 🔹 Total Sales by Region  
+### 1. Total Sales by Region  
 - The **highest sales** were recorded in the **South** region, followed by the **West, East, and Central** regions.  
 
-### 🔹 Profit Margin by Category  
+### 2. Profit Margin by Category  
 - **Technology** had the highest profit margin, indicating strong profitability for tech products.  
 
-### 🔹 Monthly Sales Over Time  
+### 3. Monthly Sales Over Time  
 - Sales show **seasonal trends**, with noticeable peaks in certain months.  
 
-### 🔹 Distribution of Discounts  
+### 4. Distribution of Discounts  
 - Discounts mostly range from **0% to 20%**, with a higher frequency around **5-15%**.  
 
-### 🔹 Sales by Category and Subcategory  
+### 5. Sales by Category and Subcategory  
 - **Office Supplies** had the **widest range** of subcategories contributing to sales.  
 - **Technology and Office Supplies** had higher sales per subcategory compared to Furniture.  
 
