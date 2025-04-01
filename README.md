@@ -106,7 +106,8 @@ The Superstore Sales dataset provides valuable insights into **sales performance
 
 This dashboard provides insights into **sales, profit, and customer segments**.
 
-**Superstore Dashboard** ![Screenshot 2025-04-01 233340](https://github.com/user-attachments/assets/8ec4b2f2-da37-4e5e-9e9d-36f6a7f948e7)
+**Superstore Dashboard** ![Screenshot 2025-04-01 235022](https://github.com/user-attachments/assets/c8591ec1-4dcc-4fd0-9c63-77ff912c3bb7)
+
 
 
 
