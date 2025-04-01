@@ -51,45 +51,45 @@ The **Superstore Sales dataset** contains **1,000 records** across **14 fields**
 - **Office Supplies** had the **widest range** of subcategories contributing to sales.  
 - **Technology and Office Supplies** had higher sales per subcategory compared to Furniture.  
 
-### 🔹 Profit vs. Sales by Category  
+### 6. Profit vs. Sales by Category  
 - There is a **positive correlation** between **sales and profit** across categories, with **Technology** showing the highest correlation.  
 
-### 🔹 Total Quantity Sold by State  
+### 7. Total Quantity Sold by State  
 - **California, Texas, and Florida** recorded the highest quantity of products sold.  
 
-### 🔹 Average Profit Margin by Region  
+### 8. Average Profit Margin by Region  
 - The **West region** has the **highest average profit margin**, followed by **South, East, and Central** regions.  
 
-### 🔹 Correlation Heatmap  
+### 9. Correlation Heatmap  
 - **Sales and Profit** show a **strong positive correlation**.  
 - **Discount** has a **slight negative correlation** with both **sales and profit**.  
 
-### 🔹 Top 10 Products by Sales  
+### 10. Top 10 Products by Sales  
 - The **best-selling products** belong to the **Technology and Office Supplies** categories.  
 
 ---  
 
-# 📊 Business Insights from Superstore Sales Data
+#  Business Insights from Superstore Sales Data
 
-## 🔹 Regional Performance
-- 🌍 **South region** recorded the highest sales.  
-- 💰 **West region** had the highest profit margins, making it the most profitable.  
+##  Regional Performance
+-  **South region** recorded the highest sales.  
+-  **West region** had the highest profit margins, making it the most profitable.  
 
-## 🔹 Product Categories
-- 🖥️ **Technology products** generated the highest profit.  
-- 📄 **Office Supplies** contributed the most to sales volume.  
+##  Product Categories
+-  **Technology products** generated the highest profit.  
+-  **Office Supplies** contributed the most to sales volume.  
 
-## 🔹 Seasonal Trends
-- 📈 Sales exhibit **seasonal patterns**, with certain months showing noticeable peaks.  
-- 📊 This indicates **potential demand fluctuations** throughout the year.  
+##  Seasonal Trends
+-  Sales exhibit **seasonal patterns**, with certain months showing noticeable peaks.  
+-  This indicates **potential demand fluctuations** throughout the year.  
 
-## 🔹 Discount Strategies
-- 🔻 Most discounts fall between **5-15%**.  
-- ❌ There’s a **negative correlation between discounts and profit**, meaning excessive discounts could hurt profitability.  
+##  Discount Strategies
+-  Most discounts fall between **5-15%**.  
+-  There’s a **negative correlation between discounts and profit**, meaning excessive discounts could hurt profitability.  
 
-## 🔹 Top Products
-- 🏆 Best-selling products came from **Technology** and **Office Supplies** categories.  
-- 🏅 These categories show **strong market demand**.  
+##  Top Products
+-  Best-selling products came from **Technology** and **Office Supplies** categories.  
+-  These categories show **strong market demand**.  
 
 ---
 
