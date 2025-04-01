@@ -100,7 +100,13 @@ The Superstore Sales dataset provides valuable insights into **sales performance
 - **Technology products** were the most profitable, while **Office Supplies** had the highest sales volume.  
 - Sales followed **seasonal trends**, with peaks in specific months, indicating **potential demand fluctuations**.  
 - **Discount strategies** showed a negative correlation with profit, suggesting that excessive discounts may reduce profitability.  
-- The **best-selling products** were from the Technology and Office Supplies categories, demonstrating their strong market demand.   
+- The **best-selling products** were from the Technology and Office Supplies categories, demonstrating their strong market demand.
+
+# 📊 Superstore Sales Dashboard
+
+This dashboard provides insights into **sales, profit, and customer segments**.
+
+![Superstore Dashboard](https://raw.githubusercontent.com/your-username/your-repo-name/main/Screenshot%202025-04-01%20233340.png)
 
 
 
