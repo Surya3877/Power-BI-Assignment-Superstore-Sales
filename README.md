@@ -102,11 +102,12 @@ The Superstore Sales dataset provides valuable insights into **sales performance
 - **Discount strategies** showed a negative correlation with profit, suggesting that excessive discounts may reduce profitability.  
 - The **best-selling products** were from the Technology and Office Supplies categories, demonstrating their strong market demand.
 
-# 📊 Superstore Sales Dashboard
+#  Superstore Sales Dashboard
 
 This dashboard provides insights into **sales, profit, and customer segments**.
 
-![Superstore Dashboard](https://raw.githubusercontent.com/your-username/your-repo-name/main/Screenshot%202025-04-01%20233340.png)
+![Superstore Dashboard] ![Screenshot 2025-04-01 233340](https://github.com/user-attachments/assets/8ec4b2f2-da37-4e5e-9e9d-36f6a7f948e7)
+
 
 
 
