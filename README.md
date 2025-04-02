@@ -33,6 +33,15 @@ The **Superstore Sales dataset** contains **1,000 records** across **14 fields**
 
 ---
 
+#  Superstore Sales Dashboard
+
+This dashboard provides insights into **sales, profit, and customer segments**.
+
+**Superstore Dashboard** ![Screenshot 2025-04-01 235901](https://github.com/user-attachments/assets/be7356e8-a7fb-46fd-b275-1fd4277c87dc)
+
+
+---
+
 ##  Data Visualization  
 
 ### 1. Total Sales by Region  
@@ -101,12 +110,6 @@ The Superstore Sales dataset provides valuable insights into **sales performance
 - Sales followed **seasonal trends**, with peaks in specific months, indicating **potential demand fluctuations**.  
 - **Discount strategies** showed a negative correlation with profit, suggesting that excessive discounts may reduce profitability.  
 - The **best-selling products** were from the Technology and Office Supplies categories, demonstrating their strong market demand.
-
-#  Superstore Sales Dashboard
-
-This dashboard provides insights into **sales, profit, and customer segments**.
-
-**Superstore Dashboard** ![Screenshot 2025-04-01 235901](https://github.com/user-attachments/assets/be7356e8-a7fb-46fd-b275-1fd4277c87dc)
 
 
 
