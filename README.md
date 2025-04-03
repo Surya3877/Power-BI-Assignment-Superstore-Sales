@@ -37,7 +37,8 @@ The **Superstore Sales dataset** contains **1,000 records** across **14 fields**
 
 This dashboard provides insights into **sales, profit, and customer segments**.
 
-**Superstore Dashboard** ![Screenshot 2025-04-01 235901](https://github.com/user-attachments/assets/be7356e8-a7fb-46fd-b275-1fd4277c87dc)
+**Superstore Dashboard** ![Screenshot 2025-04-03 105605](https://github.com/user-attachments/assets/87d8f367-f83a-4793-a43e-fa853648f785)
+
 
 
 ---
